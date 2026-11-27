@@ -1,4 +1,4 @@
-"""Teste ponta a ponta. Execute com a API já iniciada, em banco de teste."""
+
 import json
 import sys
 import urllib.error
