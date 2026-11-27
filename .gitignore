@@ -1,0 +1,10 @@
+/target/
+/data/
+/evidencias/
+/local/
+*.log
+.idea/
+.vscode/
+.env
+*.mv.db
+*.trace.db
